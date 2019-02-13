@@ -93,5 +93,11 @@ tags: # optional, show at homepage if exists
 - [ ] Searching
 - [ ] i18n
 - [x] images zoom viewer
+  - [X] use `medium-zoom` tool
 - [x] scroll to top
 - [x] loading pages
+  - [X] hand-write loading pages
+  - [ ] pending to new method, for instance, generate loading pages automatically
+- [ ] stylize theme
+  - [ ] normal theme
+  - [ ] dark theme

@@ -1,5 +1,7 @@
 // list of post file name
 export default [
+  '2099-01-01-draft2',
+  '2099-01-01-draft1',
   '2019-02-14-cats',
   '2019-02-13-Lorem-Ipsum',
   '2018-12-12-japanese',
